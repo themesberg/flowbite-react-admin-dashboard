@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   <a href="https://flowbite-react-admin-dashboard.vercel.app/">
-    <img src="https://i.postimg.cc/vmW12Pqh/Screenshot.png" />
+    <img src="https://i.postimg.cc/3RMbsw6t/flowbite-react-admin-dashboard.png" />
   </a>
   <br />
 </div>
